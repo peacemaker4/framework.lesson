@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PhpIncludePathManager">
+    <include_path>
+      <path value="$PROJECT_DIR$/framework01/vendor/opis/closure" />
+      <path value="$PROJECT_DIR$/framework01/vendor/twig/twig" />
+      <path value="$PROJECT_DIR$/framework01/vendor/psr/simple-cache" />
+      <path value="$PROJECT_DIR$/framework01/vendor/filp/whoops" />
+      <path value="$PROJECT_DIR$/framework01/vendor/psr/http-server-middleware" />
+      <path value="$PROJECT_DIR$/framework01/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/framework01/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/framework01/vendor/psr/http-server-handler" />
+      <path value="$PROJECT_DIR$/framework01/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/framework01/vendor/psr/http-factory" />
+      <path value="$PROJECT_DIR$/framework01/vendor/doctrine/orm" />
+      <path value="$PROJECT_DIR$/framework01/vendor/doctrine/persistence" />
+      <path value="$PROJECT_DIR$/framework01/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/framework01/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/framework01/vendor/doctrine/event-manager" />
+      <path value="$PROJECT_DIR$/framework01/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/framework01/vendor/doctrine/common" />
+      <path value="$PROJECT_DIR$/framework01/vendor/doctrine/dbal" />
+      <path value="$PROJECT_DIR$/framework01/vendor/doctrine/cache" />
+      <path value="$PROJECT_DIR$/framework01/vendor/composer" />
+      <path value="$PROJECT_DIR$/framework01/vendor/doctrine/collections" />
+      <path value="$PROJECT_DIR$/framework01/vendor/doctrine/annotations" />
+      <path value="$PROJECT_DIR$/framework01/vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/framework01/vendor/symfony/string" />
+      <path value="$PROJECT_DIR$/framework01/vendor/symfony/polyfill-php73" />
+      <path value="$PROJECT_DIR$/framework01/vendor/symfony/polyfill-php80" />
+      <path value="$PROJECT_DIR$/framework01/vendor/symfony/polyfill-intl-normalizer" />
+      <path value="$PROJECT_DIR$/framework01/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/framework01/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/framework01/vendor/symfony/polyfill-intl-grapheme" />
+      <path value="$PROJECT_DIR$/framework01/vendor/laminas/laminas-zendframework-bridge" />
+      <path value="$PROJECT_DIR$/framework01/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/framework01/vendor/laminas/laminas-diactoros" />
+      <path value="$PROJECT_DIR$/framework01/vendor/laminas/laminas-httphandlerrunner" />
+      <path value="$PROJECT_DIR$/framework01/vendor/league/mime-type-detection" />
+      <path value="$PROJECT_DIR$/framework01/vendor/league/route" />
+      <path value="$PROJECT_DIR$/framework01/vendor/nikic/fast-route" />
+      <path value="$PROJECT_DIR$/framework01/vendor/league/flysystem" />
+    </include_path>
+  </component>
+  <component name="PhpProjectSharedConfiguration" php_language_level="7.3" />
+</project>
